@@ -1,13 +1,13 @@
 [![MasterHead](https://og-websitev3-dep.s3.amazonaws.com/media/original_images/ml_python_Hz38IHf.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jahongir Rahmanshikov</h1>
-<h3 align="center">A passionate Flutter developer from Kazakhstan</h3>
+<h3 align="center">A passionate Full Stack developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahongirdev1&label=Profile%20views&color=0e75b6&style=flat" alt="jahongirdev1" /> </p>
 
 - 🔭 I’m currently learning DRF (API)
 
-- 💻 I can build Telegram bots, Django Projects
+- 💻 I can build Telegram bots, Django Projects, Mobile Applications
 
 - 🌱 I want to learn **blockchain**
 
@@ -22,6 +22,9 @@
 </p>
 
 <h1 align="left">💻 Tech Stack:</h1>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -61,8 +64,9 @@
   </a> 
 </p>
 
-<h1 align="left">📊 LeetCode Stats:</h1>
-![Leetcode Stats](https://leetcard.jacoblin.cool/jahongirdev1?theme=dark)
+</br><h1 tabindex="-1" style="font-size: 2em">📊 LeetCode Stats:</h1>
+
+<a href="https://leetcode.com/u/sarvar_py_dev/">![Leetcode Stats](https://leetcard.jacoblin.cool/jahongirdev1?theme=dark)</a>
 
 <h1 align="left">📊 GitHub Stats:</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahongirdev1&show_icons=true&locale=en&layout=compact" alt="jahongirdev1" /></p>
