@@ -22,7 +22,7 @@
 
 <h1 align="left">🌐 Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/sarvarbek-davranbekov-3272212a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvarbek-davranbekov-3272212a5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jahongir-rahmanshikov-062a9a281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100081788845272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
 <a href="https://instagram.com/mr__jahongir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jahongirdev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" /></a>
