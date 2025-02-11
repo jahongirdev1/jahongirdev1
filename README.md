@@ -15,10 +15,10 @@
 
 - ⚡ Fun fact: **I am funny**
 
-</br></br></br>
+</br>
 
 
-<img src="https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;">
 
 
 
@@ -80,12 +80,10 @@
 <a href="https://leetcode.com/u/sarvar_py_dev/">![Leetcode Stats](https://leetcard.jacoblin.cool/jahongirdev1?theme=dark)</a>
 
 <h1 align="left">📊 GitHub Stats:</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahongirdev1&show_icons=true&locale=en&layout=compact" alt="jahongirdev1" /></p>
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahongirdev1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahongirdev1&show_icons=true&locale=en" alt="jahongirdev1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahongirdev1&" alt="jahongirdev1" /><span>    </span>
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahongirdev1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahongirdev1" alt="jahongirdev1" /></a> </p>
