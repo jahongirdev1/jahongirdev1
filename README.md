@@ -1,4 +1,4 @@
-[![MasterHead](https://og-websitev3-dep.s3.amazonaws.com/media/original_images/ml_python_Hz38IHf.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Jahongir Rahmanshikov</h1>
 <h3 align="center">A passionate Full Stack developer from Kazakhstan</h3>
 
